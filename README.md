@@ -1,4 +1,6 @@
-=== Parser for ACT data files ===
+=====
+Parser for ACT data files
+=====
 
 This is a python script that will translate one or more ACT data files from
 a fixed-width field format to a more useful CSV format.
